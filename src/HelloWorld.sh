@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Small comment
+#Small comment that is getting longer
 
 echo "Hello world !!"
 
