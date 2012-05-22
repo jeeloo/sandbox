@@ -1,7 +1,8 @@
 #!/bin/bash
 
+#en kommentar till
 echo "Hello Test !!"
 
-exit 23;
+exit 0;
 
 
