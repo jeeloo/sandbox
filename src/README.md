@@ -1,4 +1,4 @@
 sandbox
 =======
 
-Here is where the sources should reside.
+Here is where the source code should reside.
