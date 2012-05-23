@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Small comment
+#Small comment that is getting longer
 #Now in branch 2
 
 echo "Hello world !!"
